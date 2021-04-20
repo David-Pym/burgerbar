@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&family=Oswald&display=swap');
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #121212;
+}
+
+#d1 {
+    position: absolute;
+    background-image: url('https://images.unsplash.com/photo-1543751416-705d3e34d02a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 20%;
+    top: 0px;
+    z-index: 1;
+    text-align: center;
+    font-size: x-large;
+}
+
+table, a {
+    display: inline-table;
+    list-style: none;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+#d2 {
+    position: absolute;
+    background-image: url('https://images.unsplash.com/photo-1504981983529-9ed8031ade7f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    top: 118px;
+    color: white;
+    text-align: center;
+}
+
+#p1 {
+    vertical-align: middle;
+    line-height: 110px;
+}
+
+h1 {
+    vertical-align: middle;
+    line-height: 330px;
+    font-size: 60px;
+    font-family: 'Orelega One', cursive;
+    font-weight: bold;
+}
+
+#d3 {
+    position: absolute;
+    background-image: url('https://images.unsplash.com/photo-1551000484-9feb8d3c2b2c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    top: 750px;
+    color: white;
+}
+
+#d4 {
+    position: absolute;
+    background-image: url('https://images.unsplash.com/photo-1543751416-705d3e34d02a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+    top: 1350px;
+    font-size: 20px;
+}
+
+h3 {
+    vertical-align: left;
+    font-size: 40px;
+    font-family: 'Orelega One', cursive;
+    font-weight: bold;
+    padding: 25px;
+    color: white;
+}
+
+p {
+    padding: 25px
+}
+
+#d5 {
+    position: absolute;
+    width: 30%;
+    right: 40px;
+    top: 1400px;
+    font-size: 40px;
+    color: white;
+}
+
+ul {}
